@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <plugin xmlns="http://apache.org/cordova/ns/plugins/1.0"
-    id="ionic-plugin-deeplinks"
+    id="com.danishin.ionic-plugin-deeplinks"
     version="1.0.17">
     <name>Ionic Deeplink Plugin</name>
     <description>Ionic Deeplink Plugin</description>
     <license>MIT</license>
     <keywords>Ionic,deeplinks,deeplinking</keywords>
-    <repo>https://github.com/ionic-team/ionic-plugin-deeplink.git</repo>
-    <issue>https://github.com/ionic-team/ionic-plugin-deeplink/issues</issue>
+    <repo>https://github.com/danishin/ionic-plugin-deeplink.git</repo>
+    <issue>https://github.com/danishin/ionic-plugin-deeplink/issues</issue>
 
     <preference name="URL_SCHEME" />
     <preference name="DEEPLINK_SCHEME" default="https" />
